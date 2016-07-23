@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/MrBri/realtime-proto/issues"
   },
-  "homepage": "https://github.com/MrBri/realtime-proto#readme"
+  "homepage": "https://github.com/MrBri/realtime-proto#readme",
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.13.1"
+  }
 }

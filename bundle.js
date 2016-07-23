@@ -47,7 +47,6 @@
 	var alerter = __webpack_require__(1);
 	alerter('Hello there');
 
-
 /***/ },
 /* 1 */
 /***/ function(module, exports) {
@@ -55,7 +54,6 @@
 	module.exports = function (message) {
 	    alert(message);
 	};
-
 
 /***/ }
 /******/ ]);
